@@ -1,0 +1,59 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+}
+p{
+    font-size:30px;
+    color: white;
+}
+
+h1{
+    color:white;
+}
+
+.vert-center{
+    text-align: center;
+}
+
+.background-img{
+    background-size: cover;
+    background-position-y: 50%;
+}
+
+@font-face {
+    font-family: jedi;
+    src: url(fonts/Starjedi.ttf);
+  }
+
+.background-transparent{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px whitesmoke ;
+}
+
+.img-board{
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
+}
+
+#carousel{
+    border-radius: 20px;
+    border-color: whitesmoke;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
+}
+
+.carousel-inner{
+    border-radius: 20px;
+}
+
+.icons{
+    border-radius: 20px;
+    border-color: whitesmoke;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
+}
+.links > *{
+    font-size: 35px;
+}
