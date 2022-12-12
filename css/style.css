@@ -1,6 +1,6 @@
 body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: black;
+    background-color: #231F20;
 }
 p{
     font-size:30px;
@@ -21,37 +21,31 @@ h1{
 }
 
 @font-face {
-    font-family: jedi;
-    src: url(fonts/Starjedi.ttf);
+    font-family: melting;
+    src: url(fonts/jd_melted.ttf);
   }
+
+.meltme{
+    font-family: melting;
+    font-size: 135px;
+}
+
+.author{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 .background-transparent{
     background-color: black;
     border-radius: 20px;
-    box-shadow: 10px 10px 5px whitesmoke ;
 }
 
 .img-board{
     border-radius: 20px;
-    box-shadow: 10px 10px 5px whitesmoke ;
     margin-bottom: 20px;
-}
-
-#carousel{
-    border-radius: 20px;
-    border-color: whitesmoke;
-    box-shadow: 10px 10px 5px whitesmoke ;
-    margin-bottom: 20px;
-}
-
-.carousel-inner{
-    border-radius: 20px;
 }
 
 .icons{
     border-radius: 20px;
-    border-color: whitesmoke;
-    box-shadow: 10px 10px 5px whitesmoke ;
     margin-bottom: 20px;
 }
 .links > *{
