@@ -16,8 +16,8 @@ h1{
 }
 
 .background-img{
-    background-size: cover;
-    background-position-y: 50%;
+    background-size: auto;
+    background-position-y: 100%;
 }
 
 @font-face {
