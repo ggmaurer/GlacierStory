@@ -7,6 +7,11 @@ p{
     color: white;
 }
 
+.list{
+    font-size:20px;
+    color: white;
+}
+
 h1{
     color:white;
 }
@@ -17,7 +22,7 @@ h1{
 
 .background-img{
     background-size: auto;
-    background-position-y: 40%;
+    background-position-y: 20%;
 }
 
 .background-item{
@@ -58,4 +63,7 @@ h1{
 }
 .links > *{
     font-size: 35px;
+}
+.glacier-sea{
+    margin-right: 50px;
 }
